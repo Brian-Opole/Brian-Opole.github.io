@@ -1,2 +1,3 @@
-# Brian-Opole.github.io
+# Brian Opole
+
 My portfolio website
